@@ -4,7 +4,7 @@
 Este proyecto realiza un análisis del sector de telecomunicaciones con énfasis en el acceso a internet. Utilizando técnicas de ETL y EDA, se busca identificar tendencias, posibles oportunidades de crecimiento y factores que afectan la calidad del servicio.
 
 ## Dataset
-Los datos utilizados en este análisis provienen de [Fuente de Datos] e incluyen variables como:
+Los datos utilizados en este análisis provienen de https://indicadores.enacom.gob.ar/datos-abiertos e incluyen variables como:
 - Cantidad de accesos a internet por región.
 - Tipo de conexión (fibra óptica, ADSL, etc.).
 - Evolución del mercado en los últimos años.
