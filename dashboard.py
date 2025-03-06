@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
+#https://trabajoindividual2henry-edgdmhsoxwcvxyfvubuhrh.streamlit.app/
+
 # Configurar la página al inicio
 st.set_page_config(page_title="Accesos a Internet en Argentina", layout="wide")
 
